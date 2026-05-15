@@ -1,10 +1,10 @@
 # Hi, I'm Vishw Vekariya 👋
 
-I turn chaotic, high-volume data into things that actually matter: decision models, executive dashboards, and product decisions people trust. My background sits at the crossroads of rigorous statistical thinking and engineer-brained pragmatism, which means I'm equally comfortable writing a regression from scratch and telling a roomful of stakeholders what it means for next quarter.
+I have a bad habit of caring too much about data quality at 11pm. Also about whether the model is actually learning something useful or just memorizing noise. Also about why that one Airflow DAG keeps silently failing on Tuesdays specifically.
 
-By day I'm building ML pipelines, running A/B experiments, and poking at predictive models. By night I'm probably wondering why a feature I thought was clean has data leakage. The work spans classical ML, sports analytics, demand forecasting, and agentic AI/LLM systems because apparently I cannot pick a lane (the data is always interesting, okay?).
+The work I do lives somewhere between "make the pipeline not catch fire" and "explain to leadership why the numbers look the way they do." I've built production ETL systems that process millions of rows, trained models that run on real decisions, and somehow also measured a heart rate from a webcam using signal processing and vibes (mostly signal processing). I like problems that are messy in interesting ways.
 
-Currently finishing my **MSBA at UCLA Anderson** after a CS engineering degree from **SVNIT India** and a stint building production data infra at **LinkedIn**.
+Currently finishing my **MSBA at UCLA Anderson** after studying CS at **SVNIT India** and spending time building data infrastructure at **LinkedIn**.
 
 📍 Los Angeles, CA &nbsp;|&nbsp; 🌐 [Portfolio](https://vishw094.github.io/Portfolio/) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/vishw-vekariya-4a823023a/) &nbsp;|&nbsp; 📬 vishwvekariya@gmail.com
 
@@ -12,10 +12,10 @@ Currently finishing my **MSBA at UCLA Anderson** after a CS engineering degree f
 
 ## 🏆 A Few Things I'm Proud Of
 
-- 🥇 **1st Prize** at the UCLA Anderson x Starbucks Data Challenge: built a semantic search pipeline with LLMs + Pinecone that hit 84% NDCG@10
 - ⚙️ **Stabilized 20+ critical pipelines** at LinkedIn, shifting daily data availability from late afternoon to morning-ready
 - 💓 **Heart rate from a webcam**: rPPG system using OpenCV + FFT with only 5 BPM mean absolute error compared to ECG
 - 🌌 **97.85% accuracy** classifying exoplanets from Kepler light curve data using CNN + LSTM
+- 🔍 **End-to-end semantic search pipeline** for product recommendations using LLMs, embeddings, and vector retrieval, hitting 84% NDCG@10
 
 ---
 
@@ -54,7 +54,7 @@ Currently finishing my **MSBA at UCLA Anderson** after a CS engineering degree f
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🏆 [**Starbucks Recommender**](https://github.com/vishw094/Starbucks-Recommender) | 1st place at UCLA x Starbucks challenge: LLM-powered semantic product search, 84% NDCG@10 | OpenAI, LangChain, Pinecone |
+| ☕ [**Starbucks Recommender**](https://github.com/vishw094/Starbucks-Recommender) | Semantic product search pipeline: LLM extracts query constraints, OpenAI embeddings vectorize, Pinecone retrieves ranked results at 84% NDCG@10 | OpenAI, LangChain, Pinecone |
 | 🏈 [**Fourth-Down ETL**](https://github.com/vishw094/Fourth-Down-ETL) | Production medallion pipeline (Bronze to Silver to Gold) ingesting 16 NFL datasets with Tableau dashboards | PySpark, Airflow, Snowflake, GCS |
 | 💓 [**rPPG Heart Rate**](https://github.com/vishw094/Heart-Rate-Calculation-using-Remote-Photoplethysmography) | Contactless heart rate from facial video using FFT + Gaussian pyramids, 5 BPM MAE vs ECG | PyTorch, OpenCV, SciPy |
 | 🌌 [**Exoplanet Discovery**](https://github.com/vishw094/ExoplanetDiscovery) | CNN + LSTM classifying exoplanets from Kepler light curves at 97.85% accuracy | Keras, TensorFlow, Flask, Docker |
