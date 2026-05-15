@@ -10,10 +10,10 @@ I'm an MSBA student at **UCLA Anderson**, with a CS engineering background from 
 
 ## 🏆 A Few Things I'm Proud Of
 
-- 🥇 **1st Prize** — UCLA Anderson × Starbucks Data Challenge (semantic search with LLMs + Pinecone, 84% NDCG@10)
 - ⚙️ **Stabilized 20+ critical pipelines** at LinkedIn (via MAQ Software) — shifting data availability from late-afternoon to morning-ready
 - 🔬 **Heart rate from a webcam** — rPPG system using OpenCV + FFT with only 5 BPM mean absolute error vs ECG
 - 🌍 **97.85% accuracy** classifying exoplanets from Kepler light curve data
+- UCLA Anderson × Starbucks Data Challenge (semantic search with LLMs + Pinecone, 84% NDCG@10)
 
 ---
 
