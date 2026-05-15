@@ -74,14 +74,6 @@ Currently finishing my **MSBA at UCLA Anderson** after studying CS at **SVNIT In
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=vishw094&hide_border=true&mode=weekly" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishw094&layout=compact&hide_border=true&langs_count=8" height="150" />
-</p>
-
----
 
 ## 🌱 Outside the Terminal
 
