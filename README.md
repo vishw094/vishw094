@@ -1,19 +1,21 @@
 # Hi, I'm Vishw Vekariya 👋
 
-> *Turning raw data into decisions — from ETL pipelines at LinkedIn to LLM-powered recommenders at Starbucks.*
+I turn chaotic, high-volume data into things that actually matter: decision models, executive dashboards, and product decisions people trust. My background sits at the crossroads of rigorous statistical thinking and engineer-brained pragmatism, which means I'm equally comfortable writing a regression from scratch and telling a roomful of stakeholders what it means for next quarter.
 
-I'm an MSBA student at **UCLA Anderson**, with a CS engineering background from **SVNIT India**. I love building things end-to-end — pipelines that don't break at 3am, models that actually generalize, and interfaces people want to use. Curious by default, rigorous when it counts.
+By day I'm building ML pipelines, running A/B experiments, and poking at predictive models. By night I'm probably wondering why a feature I thought was clean has data leakage. The work spans classical ML, sports analytics, demand forecasting, and agentic AI/LLM systems because apparently I cannot pick a lane (the data is always interesting, okay?).
 
-📍 Los Angeles, CA &nbsp;|&nbsp; 🌐 [Portfolio](https://vishw094.github.io/Portfolio/) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/vishw-vekariya-4a823023a/)
+Currently finishing my **MSBA at UCLA Anderson** after a CS engineering degree from **SVNIT India** and a stint building production data infra at **LinkedIn**.
+
+📍 Los Angeles, CA &nbsp;|&nbsp; 🌐 [Portfolio](https://vishw094.github.io/Portfolio/) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/vishw-vekariya-4a823023a/) &nbsp;|&nbsp; 📬 vishwvekariya@gmail.com
 
 ---
 
 ## 🏆 A Few Things I'm Proud Of
 
-- ⚙️ **Stabilized 20+ critical pipelines** at LinkedIn (via MAQ Software) — shifting data availability from late-afternoon to morning-ready
-- 🔬 **Heart rate from a webcam** — rPPG system using OpenCV + FFT with only 5 BPM mean absolute error vs ECG
-- 🌍 **97.85% accuracy** classifying exoplanets from Kepler light curve data
-- UCLA Anderson × Starbucks Data Challenge (semantic search with LLMs + Pinecone, 84% NDCG@10)
+- 🥇 **1st Prize** at the UCLA Anderson x Starbucks Data Challenge: built a semantic search pipeline with LLMs + Pinecone that hit 84% NDCG@10
+- ⚙️ **Stabilized 20+ critical pipelines** at LinkedIn, shifting daily data availability from late afternoon to morning-ready
+- 💓 **Heart rate from a webcam**: rPPG system using OpenCV + FFT with only 5 BPM mean absolute error compared to ECG
+- 🌌 **97.85% accuracy** classifying exoplanets from Kepler light curve data using CNN + LSTM
 
 ---
 
@@ -50,12 +52,12 @@ I'm an MSBA student at **UCLA Anderson**, with a CS engineering background from 
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
+| Project | What it does | Stack |
 |---|---|---|
-| 🏆 [**Starbucks Recommender**](https://github.com/vishw094/Starbucks-Recommender) | 1st place at UCLA × Starbucks challenge — LLM-powered semantic product search with 84% NDCG@10 | OpenAI, LangChain, Pinecone |
-| 🏈 [**Fourth-Down ETL**](https://github.com/vishw094/Fourth-Down-ETL) | Production medallion pipeline ingesting 16 NFL datasets (Bronze→Silver→Gold) with Tableau dashboards | PySpark, Airflow, Snowflake, GCS |
-| 💓 [**rPPG Heart Rate**](https://github.com/vishw094/Heart-Rate-Calculation-using-Remote-Photoplethysmography) | Contactless heart rate from facial video using FFT + Gaussian pyramids; 5 BPM MAE vs ECG | PyTorch, OpenCV, SciPy |
-| 🌌 [**Exoplanet Discovery**](https://github.com/vishw094/ExoplanetDiscovery) | Deep learning (CNN + LSTM) to classify exoplanets from Kepler light curves; 97.85% accuracy | Keras, TensorFlow, Flask, Docker |
+| 🏆 [**Starbucks Recommender**](https://github.com/vishw094/Starbucks-Recommender) | 1st place at UCLA x Starbucks challenge: LLM-powered semantic product search, 84% NDCG@10 | OpenAI, LangChain, Pinecone |
+| 🏈 [**Fourth-Down ETL**](https://github.com/vishw094/Fourth-Down-ETL) | Production medallion pipeline (Bronze to Silver to Gold) ingesting 16 NFL datasets with Tableau dashboards | PySpark, Airflow, Snowflake, GCS |
+| 💓 [**rPPG Heart Rate**](https://github.com/vishw094/Heart-Rate-Calculation-using-Remote-Photoplethysmography) | Contactless heart rate from facial video using FFT + Gaussian pyramids, 5 BPM MAE vs ECG | PyTorch, OpenCV, SciPy |
+| 🌌 [**Exoplanet Discovery**](https://github.com/vishw094/ExoplanetDiscovery) | CNN + LSTM classifying exoplanets from Kepler light curves at 97.85% accuracy | Keras, TensorFlow, Flask, Docker |
 | 📈 [**Sales-Vision**](https://github.com/vishw094/Sales-Vision) | Full-stack analytics app with ARIMA/Prophet forecasting and multi-region dashboards | React, Flask, MongoDB, Prophet |
 | 🧬 [**SARS-CoV-2 NLP**](https://github.com/vishw094/Capturing_SARS_CoV_2_Mutations_with_NLP) | NLP-based tracking of genomic mutation patterns across scientific literature | Python, NLP |
 
@@ -64,10 +66,10 @@ I'm an MSBA student at **UCLA Anderson**, with a CS engineering background from 
 ## 📚 Currently Exploring
 
 ```
-🔗 RAG pipelines & LLM evaluation frameworks
-📐 Causal inference & A/B testing design
+🔗 RAG pipelines and LLM evaluation frameworks
+📐 Causal inference and experiment design
 🤖 Multi-agent AI systems
-⏱️ Advanced time series forecasting (Temporal Fusion Transformers)
+⏱️ Temporal Fusion Transformers for time series
 ```
 
 ---
@@ -75,19 +77,17 @@ I'm an MSBA student at **UCLA Anderson**, with a CS engineering background from 
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishw094&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishw094&layout=compact&theme=default&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=vishw094&hide_border=true&mode=weekly" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishw094&layout=compact&hide_border=true&langs_count=8" height="150" />
 </p>
 
 ---
 
-## 🌱 A Bit More About Me
+## 🌱 Outside the Terminal
 
-- 🎓 MSBA @ UCLA Anderson | BTech CS @ SVNIT India
-- 🏢 Built data infra at **LinkedIn** (via MAQ Software) and **Reliance Industries**
-- 🎨 Painter when I'm not debugging pipelines
-- 💪 Gym is my other IDE
-- 📬 **vishwvekariya@gmail.com**
+- 🎨 I paint (actual canvas, not Matplotlib)
+- 💪 Gym is my other debugging session
+- 🤔 Genuinely curious about AI ethics, model interpretability, and why transformers work as well as they do
 
 ---
 
