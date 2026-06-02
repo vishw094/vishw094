@@ -12,10 +12,11 @@ Currently finishing my **MSBA at UCLA Anderson** after studying CS at **SVNIT In
 
 ## 🏆 A Few Things I'm Proud Of
 
--  **Stabilized 20+ critical pipelines** at LinkedIn, shifting daily data availability from late afternoon to morning-ready
--  **Heart rate from a webcam**: rPPG system using OpenCV + FFT with only 5 BPM mean absolute error compared to ECG
--  **97.85% accuracy** classifying exoplanets from Kepler light curve data using CNN + LSTM
--  **End-to-end semantic search pipeline** for product recommendations using LLMs, embeddings, and vector retrieval, hitting 84% NDCG@10
+- ⚙️ **Stabilized 20+ critical pipelines** at LinkedIn, shifting daily data availability from late afternoon to morning-ready
+- 💓 **Heart rate from a webcam**: rPPG system using OpenCV + FFT with only 5 BPM mean absolute error compared to ECG
+- 🌌 **97.85% accuracy** classifying exoplanets from Kepler light curve data using CNN + LSTM
+- 🔍 **End-to-end semantic search pipeline** for product recommendations using LLMs, embeddings, and vector retrieval, hitting 84% NDCG@10
+- 🤖 **Built a self-auditing multi-agent system** where an audit agent checks dispatch plans against business rules and loops back for fixes before anything reaches a human
 
 ---
 
@@ -45,8 +46,10 @@ Currently finishing my **MSBA at UCLA Anderson** after studying CS at **SVNIT In
 
 **Gen AI**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logoColor=white)
 
 ---
 
@@ -54,12 +57,13 @@ Currently finishing my **MSBA at UCLA Anderson** after studying CS at **SVNIT In
 
 | Project | What it does | Stack |
 |---|---|---|
-|  [**Starbucks Recommender**](https://github.com/vishw094/Starbucks-Recommender) | Semantic product search pipeline: LLM extracts query constraints, OpenAI embeddings vectorize, Pinecone retrieves ranked results at 84% NDCG@10 | OpenAI, LangChain, Pinecone |
-|  [**Fourth-Down ETL**](https://github.com/vishw094/Fourth-Down-ETL) | Production medallion pipeline (Bronze to Silver to Gold) ingesting 16 NFL datasets with Tableau dashboards | PySpark, Airflow, Snowflake, GCS |
-|  [**rPPG Heart Rate**](https://github.com/vishw094/Heart-Rate-Calculation-using-Remote-Photoplethysmography) | Contactless heart rate from facial video using FFT + Gaussian pyramids, 5 BPM MAE vs ECG | PyTorch, OpenCV, SciPy |
-|  [**Exoplanet Discovery**](https://github.com/vishw094/ExoplanetDiscovery) | CNN + LSTM classifying exoplanets from Kepler light curves at 97.85% accuracy | Keras, TensorFlow, Flask, Docker |
-|  [**Sales-Vision**](https://github.com/vishw094/Sales-Vision) | Full-stack analytics app with ARIMA/Prophet forecasting and multi-region dashboards | React, Flask, MongoDB, Prophet |
-|  [**SARS-CoV-2 NLP**](https://github.com/vishw094/Capturing_SARS_CoV_2_Mutations_with_NLP) | NLP-based tracking of genomic mutation patterns across scientific literature | Python, NLP |
+| 🚚 [**SeeWeeS Ops Reporting Agent**](https://github.com/vishw094/SeeWeeS-Ops-Reporting-Agent) | Multi-agent system for time-critical medicine dispatch planning. Agents pull rules from a PDF via RAG, analyze shipment data, fetch live weather risk, plan a 48h dispatch, then self-audit against playbook rules with a retry loop and human escalation | LangGraph, LangChain, GPT-4.1-mini, ChromaDB |
+| ☕ [**Starbucks Recommender**](https://github.com/vishw094/Starbucks-Recommender) | Semantic product search pipeline: LLM extracts query constraints, OpenAI embeddings vectorize, Pinecone retrieves ranked results at 84% NDCG@10 | OpenAI, LangChain, Pinecone |
+| 🏈 [**Fourth-Down ETL**](https://github.com/vishw094/Fourth-Down-ETL) | Production medallion pipeline (Bronze to Silver to Gold) ingesting 16 NFL datasets with Tableau dashboards | PySpark, Airflow, Snowflake, GCS |
+| 💓 [**rPPG Heart Rate**](https://github.com/vishw094/Heart-Rate-Calculation-using-Remote-Photoplethysmography) | Contactless heart rate from facial video using FFT + Gaussian pyramids, 5 BPM MAE vs ECG | PyTorch, OpenCV, SciPy |
+| 🌌 [**Exoplanet Discovery**](https://github.com/vishw094/ExoplanetDiscovery) | CNN + LSTM classifying exoplanets from Kepler light curves at 97.85% accuracy | Keras, TensorFlow, Flask, Docker |
+| 📈 [**Sales-Vision**](https://github.com/vishw094/Sales-Vision) | Full-stack analytics app with ARIMA/Prophet forecasting and multi-region dashboards | React, Flask, MongoDB, Prophet |
+| 🧬 [**SARS-CoV-2 NLP**](https://github.com/vishw094/Capturing_SARS_CoV_2_Mutations_with_NLP) | NLP-based tracking of genomic mutation patterns across scientific literature | Python, NLP |
 
 ---
 
@@ -74,6 +78,14 @@ Currently finishing my **MSBA at UCLA Anderson** after studying CS at **SVNIT In
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=vishw094&hide_border=true&mode=weekly" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishw094&layout=compact&hide_border=true&langs_count=8" height="150" />
+</p>
+
+---
 
 ## 🌱 Outside the Terminal
 
