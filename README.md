@@ -12,11 +12,11 @@ Currently finishing my **MSBA at UCLA Anderson** after studying CS at **SVNIT In
 
 ## 🏆 A Few Things I'm Proud Of
 
-- ⚙️ **Stabilized 20+ critical pipelines** at LinkedIn, shifting daily data availability from late afternoon to morning-ready
-- 💓 **Heart rate from a webcam**: rPPG system using OpenCV + FFT with only 5 BPM mean absolute error compared to ECG
-- 🌌 **97.85% accuracy** classifying exoplanets from Kepler light curve data using CNN + LSTM
-- 🔍 **End-to-end semantic search pipeline** for product recommendations using LLMs, embeddings, and vector retrieval, hitting 84% NDCG@10
-- 🤖 **Built a self-auditing multi-agent system** where an audit agent checks dispatch plans against business rules and loops back for fixes before anything reaches a human
+-  **Stabilized 20+ critical pipelines** at LinkedIn, shifting daily data availability from late afternoon to morning-ready
+-  **Heart rate from a webcam**: rPPG system using OpenCV + FFT with only 5 BPM mean absolute error compared to ECG
+-  **97.85% accuracy** classifying exoplanets from Kepler light curve data using CNN + LSTM
+-  **End-to-end semantic search pipeline** for product recommendations using LLMs, embeddings, and vector retrieval, hitting 84% NDCG@10
+-  **Built a self-auditing multi-agent system** where an audit agent checks dispatch plans against business rules and loops back for fixes before anything reaches a human
 
 ---
 
@@ -75,15 +75,6 @@ Currently finishing my **MSBA at UCLA Anderson** after studying CS at **SVNIT In
 🤖 Multi-agent AI systems
 ⏱️ Temporal Fusion Transformers for time series
 ```
-
----
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=vishw094&hide_border=true&mode=weekly" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishw094&layout=compact&hide_border=true&langs_count=8" height="150" />
-</p>
 
 ---
 
